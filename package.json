@@ -1,6 +1,6 @@
 {
-  "name": "tiktok-src",
-  "version": "1.0.1",
+  "name": "zakirhan",
+  "version": "1.1.4",
   "description": "a tool for download tiktok videos with(out) watermark",
   "main": "index.js",
   "type": "module",
@@ -8,9 +8,9 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ahda",
+  "author": "zakirhan",
   "repository": {
-    "url": "https://github.com/wahdalo/tiktok-src"
+    "url": "https://github.com/yusufturhan21/zakirhan"
   },
   "license": "ISC",
   "dependencies": {
